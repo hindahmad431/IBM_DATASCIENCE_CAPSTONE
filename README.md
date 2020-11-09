@@ -1,4 +1,5 @@
 # IBM_DATASCIENCE_CAPSTONE
+This project is the cabstone of specialization in datascience course from IBM & Coursera. 
 
 ## please check this blog to to understand the project
 
